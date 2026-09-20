@@ -1,0 +1,19 @@
+[
+  {
+    "supplier_code": "SUP-001",
+    "material_code": "MAT-1001",
+    "min_qty": 50,
+    "unit_price": 127.5,
+    "lead_time_days": 7,
+    "valid_until": "2030-12-31"
+  },
+  {
+    "supplier_code": "SUP-002",
+    "material_code": "MAT-1001",
+    "min_qty": 100,
+    "unit_price": 118.8,
+    "lead_time_days": 12,
+    "valid_until": "2030-12-31"
+  }
+]
+
